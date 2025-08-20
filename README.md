@@ -1,28 +1,174 @@
-<h1 align="center">Hi 👋, I'm Sam M.</h1>
-<h3 align="center">I make pretty looking rectangles</h3>
+<!--
+README Revamp for @SaM13997
+Feel free to trim sections you don't want. Replace PLACEHOLDER tags as needed.
+-->
 
-- 🔭 I’m currently working on [Nyx Fitness](workout-logger.webdevsam.pro)
+<!-- Hero Section -->
+<h1 align="center">Hey, I'm <strong>Sam M.</strong> 👋</h1>
+<h3 align="center">I make pretty looking rectangles — and I obsess over making them fast, accessible, and delightful.</h3>
 
-- 🌱 I’m currently learning **App Development**
-
-- 👨‍💻 All of my projects are available at [webdevsam.pro](webdevsam.pro)
-
-- 💬 Ask me about **React, Svelte, Next.js and Supabase.**
-
-- 📫 How to reach me **sarthakmalhotra251@gmail.com**
-
-- 📄 Know about my experiences [webdevsam.pro/resume](webdevsam.pro/resume)
-
-- ⚡ Fun fact **Beat Doom Eternal on Nightmare**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak13997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak13997" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://webdevsam.pro" target="_blank"><img src="https://img.shields.io/badge/Portfolio-webdevsam.pro-5E3BEE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://webdevsam.pro/resume" target="_blank"><img src="https://img.shields.io/badge/Resume-Available-success?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:sarthakmalhotra251@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://linkedin.com/in/sarthak13997" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style='display:flex;justify-content: center; align-items:center; flex-wrap:wrap; gap:16px;'> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam13997&show_icons=true&locale=en&layout=compact" alt="sam13997" /></p>
+### 🔍 Quick Glance
+- 🚧 Currently building: **[Nyx Fitness](https://workout-logger.webdevsam.pro)** — a modern workout logging & progression tracking experience.
+- 📱 Focus for 2025: **App Development** (progressive web apps & cross‑platform stacks).
+- 🔭 Crafting with: React / Next.js / Svelte / Supabase / TypeScript / Edge runtimes.
+- 💬 Ask me about: Component architectures, design systems, DX tooling, Supabase, performance budgets.
+- 🧠 Learning: Offline-first patterns, native integrations, fitness data modeling.
+- ⚡ Fun fact: Beat Doom Eternal on Nightmare. UI refactor under pressure? Easy.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam13997&" alt="sam13997" /></p>
+---
+
+### 🧩 Philosophy
+I like turning ambiguous product ideas into crisp, componentized systems.  
+Care deeply about:
+- Performance (Core Web Vitals & perceived speed)
+- Accessibility (semantic structure & progressive enhancement)
+- Developer Experience (automation, linting, consistency)
+- Visual polish (motion & micro-interactions that serve intent)
+
+---
+
+### 🛠️ Tech & Tools
+
+<p align="center">
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Code-Typescript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JS-ES2023-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-Edge-000000?logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Svelte-Kit-FF3E00?logo=svelte&logoColor=white" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Supabase-Platform-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Postgres-SQL-4169E1?logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38BDF8?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-Runtime-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Edge-Runtime-000000?logo=vercel&logoColor=white" alt="Edge Runtime" />
+  <img src="https://img.shields.io/badge/Testing-Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Automation-GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Auth-NextAuth.js-000?logo=nextdotjs&logoColor=white" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Design_System-Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook" />
+</p>
+
+---
+
+### 🧪 Spotlight: Nyx Fitness
+Aiming to make workout logging frictionless.
+- 🏋 Structured set builder with progressive overload suggestions
+- 📊 Strength progression analytics + periodization insights (WIP)
+- 🔁 Offline-first logging (planned)
+- ☁️ Stack: Next.js App Router / Supabase / Postgres / Tailwind / Edge functions
+- 🔗 Try it: https://workout-logger.webdevsam.pro
+
+---
+
+### 📌 Selected Projects
+<!-- Replace placeholders with real repo links -->
+| Project | What It Does | Stack |
+|---------|--------------|-------|
+| Nyx Fitness | Workout logging & analytics | Next.js, Supabase, Tailwind |
+| Design System (Name TBD) | Shared UI primitives & tokens | React, Storybook, Tailwind, TS |
+| (Add Project) | (Short hook statement) | (Stack) |
+
+> Tip: Add pinned repo images using https://github-readme-stats.vercel.app/api/pin/?username=YOURUSER&repo=REPO
+
+---
+
+### 📈 GitHub Snapshot
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaM13997&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaM13997&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=SaM13997&theme=react&hide_border=true" alt="Streak Stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaM13997&theme=react" alt="Profile Summary" />
+</p>
+
+<!-- Optional Trophy Section -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaM13997&theme=algolia&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 🧬 Architecture & Patterns I Enjoy
+- Composable UI & colocation of concerns
+- Edge-first rendering + incremental static regen
+- Strong typings across boundary layers (API <-> Client)
+- Schema-driven validation (Zod / Drizzle / Supabase types)
+- CI pipelines that enforce quality gates (typecheck, test, lint, build, bundle analyze)
+
+---
+
+### 🗺️ Roadmap (Near-Term)
+| Area | Goal |
+|------|------|
+| Nyx Fitness | Add periodized plan builder |
+| Offline DX | Experiment with service worker caching & background sync |
+| Design System | Harden token pipeline + add motion primitives |
+| Performance | Lighthouse 95+ mobile baseline across active projects |
+
+---
+
+### 🤝 Open to
+- Collaborating on performance-focused frontend tooling
+- Building accessible component kits
+- Supabase experimentation / edge auth workflows
+- Fitness or health data visualization ideas
+
+---
+
+### 📫 Reach Out
+- Email: **sarthakmalhotra251@gmail.com**
+- LinkedIn: **/in/sarthak13997**
+- Portfolio: **https://webdevsam.pro**
+- Resume: **https://webdevsam.pro/resume**
+
+---
+
+### 🎮 Fun Zone
+> Beat Doom Eternal on Nightmare — which is basically prod fire-drill training with demons.
+
+---
+
+### 🧵 Random Useful Snippet
+```ts
+// Example: lightweight signal-based store pattern
+type Listener<T> = (v: T) => void;
+
+export const createStore = <T>(initial: T) => {
+  let value = initial;
+  const listeners = new Set<Listener<T>>();
+  return {
+    get: () => value,
+    set: (next: T) => {
+      if (Object.is(value, next)) return;
+      value = next;
+      listeners.forEach(l => l(value));
+    },
+    subscribe: (l: Listener<T>) => {
+      listeners.add(l);
+      l(value);
+      return () => listeners.delete(l);
+    },
+  };
+};
+```
+
+---
+
+### 🧹 Housekeeping
+Feel free to fork design ideas.  
+If something here inspired you, drop a ⭐ on a repo — fuel for more rectangles.
+
+<p align="center">
+  <sub>Built with curiosity + caffeine • Last updated: <!-- DATE_PLACEHOLDER --> </sub>
+</p>
