@@ -5,7 +5,7 @@ Feel free to trim sections you don't want. Replace PLACEHOLDER tags as needed.
 
 <!-- Hero Section -->
 <h1 align="center">Hey, I'm <strong>Sam M.</strong> 👋</h1>
-<h3 align="center">I make pretty looking rectangles — and I obsess over making them fast, accessible, and delightful.</h3>
+<h3 align="center">I make pretty looking rectangles, and I obsess over making them fast, accessible, and delightful.</h3>
 
 <p align="center">
   <a href="https://webdevsam.pro" target="_blank"><img src="https://img.shields.io/badge/Portfolio-webdevsam.pro-5E3BEE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -17,7 +17,7 @@ Feel free to trim sections you don't want. Replace PLACEHOLDER tags as needed.
 ---
 
 ### 🔍 Quick Glance
-- 🚧 Currently building: **[Nyx Fitness](https://workout-logger.webdevsam.pro)** — a modern workout logging & progression tracking experience.
+- 🚧 Currently building: **[Nyx Fitness](https://workout-logger.webdevsam.pro)** - a modern workout logging & progression tracking experience.
 - 📱 Focus for 2025: **App Development** (progressive web apps & cross‑platform stacks).
 - 🔭 Crafting with: React / Next.js / Svelte / Supabase / TypeScript / Edge runtimes.
 - 💬 Ask me about: Component architectures, design systems, DX tooling, Supabase, performance budgets.
